@@ -12,4 +12,8 @@ public class HelloWorld {
         System.out.println("Hello, "+ strPlace);
     }
 
+public static void printHelloIA(String strPlace) {
+        System.out.println("Hello, "+ strPlace);
+    }
+
 }
