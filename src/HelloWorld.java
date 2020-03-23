@@ -6,6 +6,8 @@ public class HelloWorld {
         // Prints "Hello, World" to the terminal window.
         System.out.println("Hello, World");
 	System.out.println("Hello, IA-101");
+	    
+	System.out.println("Hello, IL-501");
     }
 	
 	public static void printHello(String strPlace) {
